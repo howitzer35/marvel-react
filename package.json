@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "cool-ascii-faces": "1.3.4",
     "lodash": "^4.17.4",
     "md5": "^2.2.1",
     "react": "^16.0.0",
@@ -20,5 +21,19 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howitzer35/marvel-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howitzer35/marvel-react/issues"
+  },
+  "homepage": "https://github.com/howitzer35/marvel-react#readme"
 }
