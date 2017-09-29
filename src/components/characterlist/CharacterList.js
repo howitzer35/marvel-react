@@ -11,7 +11,7 @@ export class CharacterList extends Component {
 
   render() {
 
-    let characters = "Loading...";
+    let characters = "Loading...still loading";
 
     if(!_.isEmpty(this.props.characters)){
 
