@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+- '7'
+deploy:
+  provider: heroku
+  api_key:
+    secure: 2f0bffe1-c6b5-4dd9-832f-00e60a69453b
+  app: secure-bayou-92336
